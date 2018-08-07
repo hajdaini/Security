@@ -20,4 +20,4 @@ pyinstaller runner.py
 <img src="img/launch.jpg" width=400>
 
 ## proof
-<img src="img/run_as_admin.jpg" width=400>
+<img src="img/proove.jpg" width=400>
