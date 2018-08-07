@@ -1,5 +1,5 @@
 # Description :
-This script launches an executable during each reboot. ** I did this for learning purposes and encourage you to do the same!**
+This script launches an executable during each reboot. **I did this for learning purposes and encourage you to do the same!**
 
 # Before running the script :
 **- This programm works only on windows OS**
