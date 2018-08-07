@@ -19,5 +19,5 @@ pyinstaller runner.py
 2) Enter full path of your exe file
 <img src="img/launch.jpg" width=400>
 
-## proof
+## Proof
 <img src="img/proove.jpg" width=400>
