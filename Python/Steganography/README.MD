@@ -10,15 +10,29 @@ pip3 install argparse
 
 # How to use it :
 
-To hide message in image :
+**To hide message in image :**
 ```
 python stegno.py -e -i "path/montagne.jpg" -m "hidden image" -o lol.png
 ```
 
-To display the hidden message :
+**To display the hidden message :**
 ```
 python stegno.py -d -i hidden_img.png
 ```
 
+**help :**
+```
+python stegno.py -h
+```
+
 ## Proof
+
+**Before encoding the image :**
+<img src="montagne.jpg">
+
+**After encoding the image :**
+<img src="img/hidden_img.png">
+
+<br>
+<br>
 <img src="img/proove.jpg">
