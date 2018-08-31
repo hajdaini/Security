@@ -21,4 +21,4 @@ python stegno.py -d -i hidden_img.png
 ```
 
 ## Proof
-<img src="img/proove.jpg" width=400>
+<img src="img/proove.jpg">
