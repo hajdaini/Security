@@ -25,7 +25,7 @@ python stegno.py -d -i hidden_img.png
 python stegno.py -h
 ```
 
-## Proof
+## Proof :
 
 ### Before encoding the image :
 <img src="montagne.jpg">
