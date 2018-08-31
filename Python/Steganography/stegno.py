@@ -108,7 +108,6 @@ EXAMPLES :
         python stegno -e -i "C:\Users\usrname\Desktop\input.png" -m "your message" -o "name_of_your_image"
     
     DECODE :
-    s
         python stegno -d "/home/username/input.png"
 
 -----------------------------------------------
