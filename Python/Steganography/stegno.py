@@ -1,3 +1,8 @@
+"""
+@Author : AJDAINI Hatim
+@GitHub : https://github.com/Hajdaini
+"""
+
 from PIL import Image
 import binascii, argparse, time
 from argparse import RawTextHelpFormatter
