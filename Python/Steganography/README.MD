@@ -1,7 +1,7 @@
 # Description :
 This script allows to hide / display a message in an image, it modifies the LSB (Least Significant Bit) of the red color of each pixel
 
-# Prerequisites
+# Prerequisites :
 
 ```
 pip3 install Pillow
