@@ -27,12 +27,13 @@ python stegno.py -h
 
 ## Proof
 
-**Before encoding the image :**
+### Before encoding the image :
 <img src="montagne.jpg">
 
-**After encoding the image :**
+### After encoding the image :
 <img src="img/hidden_img.png">
 
+**Running the script**
 <br>
 <br>
 <img src="img/proove.jpg">
