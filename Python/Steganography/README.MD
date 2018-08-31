@@ -1,5 +1,5 @@
 # Description :
-This script allows to hide / display a message in an image, it modifies the LSB (Least Significant Bit) of the red color of each pixel
+This script allows you to hide / display a message in an image, it modifies the LSB (Least Significant Bit) of the red color of each pixel
 
 # Prerequisites :
 
