@@ -18,7 +18,7 @@ python metadata.py data.jpg
 GPS INFO :
 Latitude: 31.241880555555557 | Longitude: 121.48606666666667
 ```
-source image:
+Source image:
 <img src="data.jpg">
 
 Google search with my Latitude and Longitude :
