@@ -1,5 +1,5 @@
 # Description :
-This script allows you to see metadata of an image
+This script allows you to extract metadata of an image
 # Prerequisites :
 
 ```
