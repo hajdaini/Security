@@ -45,7 +45,7 @@ def gps_handle():
 
 
 get_metadata()
-is_gps_info = gps_handle()
+has_gps_info = gps_handle()
 
-if is_gps_info is not None:
-    print(is_gps_info)
+if has_gps_info is not None:
+    print(has_gps_info)
