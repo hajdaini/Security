@@ -14,7 +14,7 @@ def encode_image(msg, src_img, dest_img):
 
     try:
         encoded_image = Image.open(src_img)
-        print("the image" + src_image + " exist we will now hide the text in the image ...\n")
+        print("the image" + src_img + " exist we will now hide the text in the image ...\n")
     except Exception as e:
         print(e)
         exit(1)
