@@ -22,5 +22,5 @@ GPS INFO :
 Latitude: 31.241880555555557 | Longitude: 121.48606666666667
 ```
 
-Google search with my output Latitude and Longitude :
+Google search with my Latitude and Longitude :
 <img src="google_search.jpg">
