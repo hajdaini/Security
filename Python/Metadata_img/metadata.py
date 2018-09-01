@@ -25,7 +25,6 @@ def convert_to_degress(value):
     d = float(value.values[0].num) / float(value.values[0].den)
     m = float(value.values[1].num) / float(value.values[1].den)
     s = float(value.values[2].num) / float(value.values[2].den)
-
     return d + (m / 60.0) + (s / 3600.0)
 
 
